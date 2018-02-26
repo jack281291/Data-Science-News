@@ -13,3 +13,9 @@ https://datatau.com/
 https://techcrunch.com/
 
 https://www.mlsociety.com/
+
+http://claoudml.strikingly.com/
+
+http://fastml.com/
+
+https://towardsdatascience.com/
