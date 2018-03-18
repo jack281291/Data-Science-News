@@ -19,3 +19,5 @@ http://claoudml.strikingly.com/
 http://fastml.com/
 
 https://towardsdatascience.com/
+
+https://www.infoworld.com/
