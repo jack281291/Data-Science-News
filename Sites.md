@@ -21,3 +21,5 @@ http://fastml.com/
 https://towardsdatascience.com/
 
 https://www.infoworld.com/
+
+https://dev.to/
